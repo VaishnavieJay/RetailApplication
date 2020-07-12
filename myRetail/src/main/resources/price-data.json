@@ -1,0 +1,27 @@
+[
+   
+    {
+    	"_class": "com.tgt.myretail.model.Price",
+    	"id": 13860428,
+        "value":13.49,
+		"currency":"USD"
+    },
+    {
+    	"_class": "com.tgt.myretail.model.Price",
+        "id": 54456119,
+        "value":500,
+		"currency":"USD"
+    },
+    {
+    	"_class": "com.tgt.myretail.model.Price",
+        "id": 13264003,
+        "value":30.20,
+		"currency":"USD"
+    },
+    {
+    	"_class": "com.tgt.myretail.model.Price",
+        "id": 12954218,
+        "value":18.97,
+		"currency":"USD"
+    }
+]
